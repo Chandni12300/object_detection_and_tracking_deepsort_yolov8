@@ -17,6 +17,11 @@ The notebook and code perform various tasks like object detection and trajectory
 - Traffic Management: Count of Vehicles
 - Traffic Management: Congestion
 
+
+## YOU CAN ALSO FOLLOW THE IPYNB GOOGLE COLLAB NOTEBOOK FOR THE EXECUTION.
+## JUST REMEMBER TO SELECT GPU RUNTIME BEFORE RUNNING
+
+
 ## Introduction
 **INDIVIDUAL RESERACH THESIS: TRACKING OBJECT BEHAVIOUR BY LEVERAGING A SINGLE CAMERA SENSOR PLACED ON THE ROAD INFRASTRUCTURE**
 
