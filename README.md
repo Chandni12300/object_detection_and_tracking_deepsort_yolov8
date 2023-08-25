@@ -98,7 +98,6 @@ names:
 - truck-s-
 - truck-xl-
   nc: 12
-![image](https://github.com/Chandni12300/object_detection_and_tracking_deepsort_yolov8/assets/81769024/6c599c0e-4ac5-4ae6-96d9-406e01cfc006)
 
 ---
 
