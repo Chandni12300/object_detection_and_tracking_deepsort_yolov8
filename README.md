@@ -25,12 +25,6 @@ The notebook and code perform various tasks like object detection and trajectory
 ## Introduction
 **INDIVIDUAL RESERACH THESIS: TRACKING OBJECT BEHAVIOUR BY LEVERAGING A SINGLE CAMERA SENSOR PLACED ON THE ROAD INFRASTRUCTURE**
 
-NAME: CHANDNI SAHA
-
-STUDENT ID: s387796
-
-MSc in COMPUTATIONAL AND SOFTWARE TECHNIQUES IN ENGINEERING (COMPUTATIONAL INTELLIGENCE IN DATA ANALYTICS)
-
 # Object Detection and Tracking with DeepSORT and YOLOv8
 
 This repository provides a comprehensive guide to Object Detection and Tracking using DeepSORT and YOLOv8. We also include modules for future trajectory prediction, collision risk analysis, and traffic management.
